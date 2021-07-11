@@ -12,3 +12,5 @@ Simple chat made with Rust and Tokio, based on [Lily Mara's video](https://youtu
 
 Weather API CLI from [Shane Moloney](https://www.youtube.com/watch?v=DQnLQznJK1Q).
 
+
+![Example](https://imgur.com/dD1T8TD)
